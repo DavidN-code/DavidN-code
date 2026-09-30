@@ -44,4 +44,4 @@ I'm currently pursuing opportunities where I can contribute as a **software deve
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/davidneagoy/)
-- [GitHub](https://github.com/DavidN-code)
+- [Email](mailto:davidneagoy@gmail.com)
